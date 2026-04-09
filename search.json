@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "RHT.html",
-    "href": "RHT.html",
-    "title": "The Ranch Horse Team",
-    "section": "",
-    "text": "The Ranch Horse Team is a club organization that provides students with a platform to compete at the collegiate level in a variety of ranch events, ranging from the ranch riding and trail to the boxing and fence work. The team attends two major national-level contests in Abilene and Amarillo, Texas. Additionally, the team will attend other shows and host a variety of clinics throughout the year."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Assignment",
@@ -14,18 +7,25 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "classes.html",
-    "href": "classes.html",
-    "title": "Classes",
-    "section": "",
-    "text": "The equine program offers a variety of classes. Lecture-based courses include Equine Enterprise and Horse Science. Training courses include Training Methods, Behavior and Handling, and Sales Prep. Each of these hands-on training classes is designed to emphasize a different aspect of the training process, with young horses giving both students and horses a dynamic and well-rounded foundation. The program’s home-bred weanlings and yearlings are used in these courses. Additionally, a Breeding and Foaling course is offered in the spring to allow students the opportunity to get involved with and learn about the reproductive process. All of these classes are integrated into the Equine Certificate, which is available to those students wishing to pursue a specialization in equine studies."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "RHT.html",
+    "href": "RHT.html",
+    "title": "The Ranch Horse Team",
+    "section": "",
+    "text": "The Ranch Horse Team is a club organization that provides students with a platform to compete at the collegiate level in a variety of ranch events, ranging from the ranch riding and trail to the boxing and fence work. The team attends two major national-level contests in Abilene and Amarillo, Texas. Additionally, the team will attend other shows and host a variety of clinics throughout the year."
+  },
+  {
+    "objectID": "classes.html",
+    "href": "classes.html",
+    "title": "Classes",
+    "section": "",
+    "text": "The equine program offers a variety of classes. Lecture-based courses include Equine Enterprise and Horse Science. Training courses include Training Methods, Behavior and Handling, and Sales Prep. Each of these hands-on training classes is designed to emphasize a different aspect of the training process, with young horses giving both students and horses a dynamic and well-rounded foundation. The program’s home-bred weanlings and yearlings are used in these courses. Additionally, a Breeding and Foaling course is offered in the spring to allow students the opportunity to get involved with and learn about the reproductive process. All of these classes are integrated into the Equine Certificate, which is available to those students wishing to pursue a specialization in equine studies."
   },
   {
     "objectID": "farm.html",
