@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Oklahoma State Equine Program"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: farm.qmd
+        text: Breeding Farm
+      - href: classes.qmd
+        text: Classes
+      - href: judging-team.qmd
+        text: Horse Judging Team
+      - href: RHT.qmd
+        text: Ranch Horse Team
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme:
+      - minty
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
